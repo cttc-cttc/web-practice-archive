@@ -4,4 +4,5 @@
   
   
 ### 웹 이외 개발
-* PC버전 방 탈출 게임 (Unity C#) zip 파일 다운로드 : https://drive.google.com/file/d/1KUDwTqUIk44x5Ufv3v0MGoAlVJ_NjNus/view?usp=sharing
+* PC버전 방 탈출 게임 (Unity C#)  
+zip 파일 다운로드 : https://drive.google.com/file/d/1KUDwTqUIk44x5Ufv3v0MGoAlVJ_NjNus/view?usp=sharing
